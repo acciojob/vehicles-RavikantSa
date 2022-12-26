@@ -40,7 +40,7 @@ public class F1 extends Car {
                  changeGear(5);
              }
 //         * speed more than 250: gear 6
-             else if(newSpeed >250) {
+             else  {
                  changeGear(6);
              }
 
